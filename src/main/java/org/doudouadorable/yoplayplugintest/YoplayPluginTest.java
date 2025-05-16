@@ -1,4 +1,3 @@
-// Alors là jimporte les truc qu'il me faut pour mon plugin
 package org.doudouadorable.yoplayplugintest;
 
 import org.bukkit.Bukkit;
