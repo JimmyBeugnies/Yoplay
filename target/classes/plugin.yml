@@ -1,0 +1,7 @@
+name: YoplayPluginTest
+version: 1.0
+main: org.doudouadorable.yoplayplugintest.YoplayPluginTest
+commands:
+  particule:
+    description: Fait apparaître des particules autour du joueur.
+    usage: /particule
